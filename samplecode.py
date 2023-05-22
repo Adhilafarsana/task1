@@ -9,7 +9,7 @@ Created on Mon May 22 13:46:44 2023
 int main() {   
     int number;
    
-    printf("Enter an integer: ");  
+    printf("Enter an number: ");  
     
     // reads and stores input
     scanf("%d", &number);
